@@ -7,10 +7,13 @@ Large tankers, ships, and pipeline cracks pour oil onto sea surfaces, causing si
 Problem Statement- The frequency of marine oil spills has increased in recent years. The growing exploitation of marine oil and continuous increase in marine crude oil transportation has tremendous damage to the marine ecological environment. It is one of the major causes of water pollution. Satellite images can improve the possibilities for the detection of oil spills as they cover large areas and offer an economical and easier way of continuous coast areas patrolling. Using Synthetic aperture radar (SAR) images, marine oil spills can be identified and controlled.
 
 Raw Image
+
 ![image](https://github.com/Ygurram14/Oil-Spill-Detection/assets/143032421/e780f1a8-eef4-4511-9f37-36c3cd54470f)
 
 Object Recognition using MobileNetV2
+
 ![image](https://github.com/Ygurram14/Oil-Spill-Detection/assets/143032421/31c1cd4f-209a-449e-a7eb-56887b2dfaf0)
 
-Segmentation using U-net
+Image Segmentation using U-net
+
 ![image](https://github.com/Ygurram14/Oil-Spill-Detection/assets/143032421/afdbbfa2-e8ad-42d4-9912-5ce62745db67)
