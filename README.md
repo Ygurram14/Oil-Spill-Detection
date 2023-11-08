@@ -10,9 +10,11 @@ Raw Image
 
 ![image](https://github.com/Ygurram14/Oil-Spill-Detection/assets/143032421/e780f1a8-eef4-4511-9f37-36c3cd54470f)
 
+
 Object Recognition using MobileNetV2
 
 ![image](https://github.com/Ygurram14/Oil-Spill-Detection/assets/143032421/31c1cd4f-209a-449e-a7eb-56887b2dfaf0)
+
 
 Image Segmentation using U-net
 
